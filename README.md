@@ -21,9 +21,6 @@ I am a Computer Science Engineering student passionate about building AI-powered
 - SQL
 
 ### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
 - Large Language Models (LLMs)
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
@@ -50,8 +47,6 @@ I am a Computer Science Engineering student passionate about building AI-powered
 - GitHub
 - Docker
 - Streamlit
-- Gradio
-- REST APIs
 
 ### Web Technologies
 - HTML
