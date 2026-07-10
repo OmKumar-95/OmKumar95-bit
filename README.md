@@ -1,67 +1,56 @@
 # Hi 👋, I'm Om Kumar
 
-I am a Computer Science Engineering student passionate about building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning. I enjoy solving Data Structures & Algorithms problems and developing intelligent software that addresses real-world challenges.
+I am a Computer Science Engineering student passionate about Full Stack Web Development and building scalable, user-friendly web applications. I enjoy solving Data Structures & Algorithms problems and creating modern web solutions using frontend and backend technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🤖 Passionate about Artificial Intelligence & Generative AI
-- 💡 Building AI-powered applications with LLMs
-- 💻 Strong foundation in Data Structures & Algorithms
+* 🎓 Computer Science Engineering Student
+* 🌐 Passionate about Full Stack Web Development
+* 💻 Building responsive and scalable web applications
+* 🚀 Strong foundation in Data Structures & Algorithms
 
 ---
 
 # 🛠️ Technical Skills
 
 ### Programming Languages
-- Python
-- Java
-- SQL
 
-### Artificial Intelligence
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Vector Databases
-- Embedding Models
+* Java
+* Python
+* JavaScript
+* SQL
 
-### AI Frameworks & Libraries
-- LangChain
-- Hugging Face Transformers
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Backend Development
+
+* Node.js
+* Express.js
 
 ### Databases
-- MySQL
-- ChromaDB
-- FAISS
 
-### Cloud & Deployment
-- Git
-- GitHub
-- Docker
-- Streamlit
+* MySQL
+* MongoDB
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+### Version Control & Deployment
+
+* Git
+* GitHub
+* Docker
 
 ### Development Tools
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Postman
 
----
-
+* VS Code
+* Postman
+* Jupyter Notebook
+* Google Colab
 
 ---
 
@@ -76,11 +65,12 @@ https://github.com/OmKumar95-bit/Leetcode
 
 ## 💡 Core Competencies
 
-- Artificial Intelligence
-- Prompt Engineering
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
+* Full Stack Web Development
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management
+* REST API Development
+* Problem Solving
 
 ---
 
@@ -89,6 +79,4 @@ https://github.com/OmKumar95-bit/Leetcode
 **GitHub**
 https://github.com/OmKumar95-bit
 
-**Email**
-omkumarsingh1094@gmail.com
 
