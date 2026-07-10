@@ -1,46 +1,101 @@
-# Hi, I am Om Kumar
+# Hi 👋, I'm Om Kumar
 
-I am building practical software projects that connect AI, web development, and real-world business problems.
+## 🚀 AI Engineer | Computer Science Engineering Student | Java Developer | Generative AI Enthusiast
 
-## Featured Project
+I am a Computer Science Engineering student passionate about building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning. I enjoy solving Data Structures & Algorithms problems and developing intelligent software that addresses real-world challenges.
 
-### SkillPath AI
+---
 
-SkillPath AI is an AI-enabled learning and development platform concept for industrial workforce capability management.
+## 👨‍💻 About Me
 
-It includes:
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Generative AI
+- 💡 Building AI-powered applications with LLMs
+- 💻 Strong foundation in Data Structures & Algorithms
 
-- Role-based dashboards for leadership, supervisors, workers, and L&D teams
-- AI-style worker coaching based on approved knowledge content
-- Supervisor coaching plans for skill gaps
-- Expert knowledge capture workflow
-- Business impact estimator for training pilots
-- Node.js backend scaffold with API smoke tests
+---
 
-Repository: [SkillPath-AI](https://github.com/OmKumar95-bit/SkillPath-AI)
+# 🛠️ Technical Skills
 
-## Current Focus
+### Programming Languages
+- Python
+- Java
+- SQL
 
-- JavaScript and web application development
-- AI-assisted business applications
-- Backend APIs and project documentation
-- Building clean, demo-ready projects for review
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Vector Databases
+- Embedding Models
 
-## Tech I Work With
+### AI Frameworks & Libraries
+- LangChain
+- Hugging Face Transformers
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
 
-- HTML, CSS, JavaScript
-- Node.js
-- JSON-based data workflows
-- Git and GitHub
-- AI product prototyping
+### Databases
+- MySQL
+- ChromaDB
+- FAISS
 
-## What I Am Improving
+### Cloud & Deployment
+- Git
+- GitHub
+- Docker
+- Streamlit
+- Gradio
+- REST APIs
 
-- Writing cleaner project documentation
-- Building production-style project structure
-- Improving UI/UX and demo presentation
-- Learning how to package projects for mentors, evaluators, and collaborators
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-## Contact
+### Development Tools
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Postman
 
-GitHub: [@OmKumar95-bit](https://github.com/OmKumar95-bit)
+---
+
+
+---
+
+### 🔹 LeetCode Solutions
+
+A collection of Java solutions covering Data Structures, Algorithms, Sliding Window, Graphs, Dynamic Programming, Trees, Binary Search, and more.
+
+🔗 Repository:
+https://github.com/OmKumar95-bit/Leetcode
+
+---
+
+## 💡 Core Competencies
+
+- Artificial Intelligence
+- Prompt Engineering
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+
+---
+
+## 🌐 Connect With Me
+
+**GitHub**
+https://github.com/OmKumar95-bit
+
+**Email**
+omkumarsingh1094@gmail.com
+
