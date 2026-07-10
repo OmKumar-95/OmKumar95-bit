@@ -1,7 +1,5 @@
 # Hi 👋, I'm Om Kumar
 
-## 🚀 AI Engineer | Computer Science Engineering Student
-
 I am a Computer Science Engineering student passionate about building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Machine Learning. I enjoy solving Data Structures & Algorithms problems and developing intelligent software that addresses real-world challenges.
 
 ---
